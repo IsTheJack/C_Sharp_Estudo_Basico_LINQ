@@ -1,7 +1,8 @@
 C_Sharp_Estudo_Basico_LINQ
 ==========================
 
-Estudo básico de LINQ to SQL usando uma aplicação console em C# no Visual Studio Express 2013
+Estudo básico de LINQ to SQL usando uma aplicação console em C# no Visual Studio Express 2013.
+
 
 Sobre a Pesquisa:
 =================
@@ -23,6 +24,7 @@ De acordo com a documentação da microsoft:
   
 Ou seja, LINQ é uma forma de consultar, manusear e atualizar uma base de dados. :)
 
+
 Sumário do Arquivo '_Funcionario.cs':
 ======================================
 
@@ -31,33 +33,57 @@ Essa classe foi dividida em 12 métodos, com o intuito de explorar algumas das f
 do LINQ. Os métodos são:
 
 1 - ListarTabela();
+
 2 - OrdenarTabela();
+
 3 - ContarRegistros();
+
 4 - PesquisaPorDepartamento(string departamento);
+
 5 - PesquisaInicio(string stringDePesquisa);
+
 6 - PesquisaQualquer(string stringDePesquisa);
+
 7 - AgruparQuantidade();
+
 8 - AgruparQuantidade(int quantidade);
+
 9 - JuntarDadosTabelas();
+
 10 - InserirFuncionario(string nome, string departamento);
+
 11 - AlterarDadosFuncionario(int id);
+
 12 - ExcluirDadosFuncionario(int id);
+
 
 Com os respectivos objetivos:
 
 1 - Obtenção de toda a informação presente em uma tabela.
+
 2 - Ordenação de uma listagem.
+
 3 - Contagem da quantidade de registros existentes em uma tabela.
+
 4 - Pesquisa: Aplicação de critérios usando a palavra-chave 'where'.
+
 5 - Pesquisa: Pesquisando a partir do início de uma string usando o método 'StartsWith()'.
+
 6 - Pesquisa: Pesquisando a partir de qualquer parte de uma string usando o méodo 'Contains()'.
+
 7 - Agrupamento de informação: No exemplo agrupa-se informações da tabela funcionário de modo a
     apresentar o número total de funcionários por departamento, usando as palavras-chave 'group' e 'by'.
+    
 8 - Agrupamento de informação: Overload do método 7, porém utiliza critérios de pesquisa usando 'where'.
+
 9 - Junção de Tabelas: Relacionando duas tabelas diferentes usando a palavra-chave 'join'.
+
 10 - Manipulação de dados: Inserção de registros em uma tabela.
+
 11 - Manipulação de dados: Alteração de registros em uma tabela.
+
 11 - Manipulação de dados: Eliminação de registros em uma tabela.
+
 
 Sobre:
 ======
