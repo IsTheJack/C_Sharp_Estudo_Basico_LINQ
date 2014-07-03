@@ -93,5 +93,5 @@ Dicas sobre melhoria de didática, boas práticas e documentação do código se
 extremamente bem vindas.
 
 O material aqui apresentado pode ser alterado / publicado sem pedido de permissão.
-Créditos ao trabalho não é obrigatório, porém é visto como uma grande cortesia.
+Créditos ao trabalho não são obrigatórios, porém o ato é visto como uma grande cortesia.
 
