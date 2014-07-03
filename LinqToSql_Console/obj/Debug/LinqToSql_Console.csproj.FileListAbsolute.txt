@@ -1,0 +1,8 @@
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\bin\Debug\LinqToSql_Console.exe.config
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\bin\Debug\Empresa.mdf
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\bin\Debug\Empresa_log.ldf
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\bin\Debug\LinqToSql_Console.exe
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\bin\Debug\LinqToSql_Console.pdb
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\obj\Debug\LinqToSql_Console.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\obj\Debug\LinqToSql_Console.exe
+C:\Users\Roberto\Desktop\CRUD Basico LINQ to SQL\LinqToSql_Console\LinqToSql_Console\obj\Debug\LinqToSql_Console.pdb
