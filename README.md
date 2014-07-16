@@ -4,8 +4,7 @@ C_Sharp_Estudo_Basico_LINQ
 Estudo básico de LINQ to SQL usando uma aplicação console em C# no Visual Studio Express 2013.
 
 
-Sobre a Pesquisa:
-=================
+#Sobre a Pesquisa:
 
 Pesquisa sobre LINQ to SQL feita com base no livro;
 'C# 5.0 com Visual Studio 2012 Curso Completo' do autor;
@@ -25,8 +24,8 @@ De acordo com a documentação da microsoft:
 Ou seja, LINQ é uma forma de consultar, manusear e atualizar uma base de dados. :)
 
 
-Sumário do Arquivo '_Funcionario.cs':
-======================================
+##Sumário do Arquivo '_Funcionario.cs':
+
 
 Classe feita com ênfase na didática, não com regras de negócio relacionadas a funcionários.
 Essa classe foi dividida em 12 métodos, com o intuito de explorar algumas das funcionalidades
@@ -57,7 +56,7 @@ do LINQ. Os métodos são:
 12 - ExcluirDadosFuncionario(int id);
 
 
-Com os respectivos objetivos:
+##Com os respectivos objetivos:
 
 1 - Obtenção de toda a informação presente em uma tabela.
 
@@ -85,8 +84,8 @@ Com os respectivos objetivos:
 11 - Manipulação de dados: Eliminação de registros em uma tabela.
 
 
-Sobre:
-======
+##Sobre:
+
 
 Pesquisa feita por Roberto Oliveira (robertooliveiraestudo@gmail.com).
 Dicas sobre melhoria de didática, boas práticas e documentação do código serão 
